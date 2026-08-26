@@ -50,7 +50,7 @@ SQL was used for data validation and business-focused analysis, including:
 
 This dashboard focuses on overall sales performance, product categories, geographic distribution, ordering patterns, and sales trends.
 
-![Sales Performance Dashboard](images/dashboard-1.png)
+![Sales Performance Dashboard](images/Dashboard-1.png)
 
 ### 🔍 Key Insights
 
@@ -66,7 +66,7 @@ This dashboard focuses on overall sales performance, product categories, geograp
 
 This dashboard focuses on order fulfilment, shipping preferences, product sizes, and courier performance.
 
-![Fulfilment & Operations Dashboard](images/dashboard-2.png)
+![Fulfilment & Operations Dashboard](images/Dashboard-2.png)
 
 ### 🔍 Key Insights
 
