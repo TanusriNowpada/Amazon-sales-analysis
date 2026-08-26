@@ -95,9 +95,10 @@ This project demonstrates how raw e-commerce data can be transformed into **clea
 
 ## 📁 Project Files
 
-* **Power BI Report** — The `.pbix` file is available in the `powerbi` folder.
-* **SQL Queries** — Data validation and business analysis queries are available in the `sql` folder.
-* **Dashboard Previews** — Final dashboard screenshots are available in the `images` folder.
+- **Cleaned Dataset** — The cleaned Amazon sales dataset used for the analysis is provided as a compressed ZIP file in the `data` folder.
+- **Power BI Report** — The `.pbix` file is available in the `Powerbi` folder.
+- **SQL Queries** — Data validation and business analysis queries are available in the `Sql` folder.
+- **Dashboard Previews** — Final dashboard screenshots are available in the `Images` folder.
 
 ---
 
